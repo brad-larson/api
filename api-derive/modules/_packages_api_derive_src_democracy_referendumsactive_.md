@@ -14,7 +14,7 @@
 
 ▸ **referendumsActive**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [packages/api-derive/src/democracy/referendumsActive.ts:13](https://github.com/polkadot-js/api/blob/8b492021af/packages/api-derive/src/democracy/referendumsActive.ts#L13)*
+*Defined in [packages/api-derive/src/democracy/referendumsActive.ts:13](https://github.com/polkadot-js/api/blob/0327aedf8e/packages/api-derive/src/democracy/referendumsActive.ts#L13)*
 
 **Parameters:**
 

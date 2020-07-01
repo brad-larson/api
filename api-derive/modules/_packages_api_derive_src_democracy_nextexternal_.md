@@ -14,7 +14,7 @@
 
 ▸ **nextExternal**(`api`: ApiInterfaceRx): *function*
 
-*Defined in [packages/api-derive/src/democracy/nextExternal.ts:32](https://github.com/polkadot-js/api/blob/8b492021af/packages/api-derive/src/democracy/nextExternal.ts#L32)*
+*Defined in [packages/api-derive/src/democracy/nextExternal.ts:32](https://github.com/polkadot-js/api/blob/0327aedf8e/packages/api-derive/src/democracy/nextExternal.ts#L32)*
 
 **Parameters:**
 
