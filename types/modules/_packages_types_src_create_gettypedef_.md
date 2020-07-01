@@ -12,9 +12,9 @@
 
 ###  getTypeDef
 
-▸ **getTypeDef**(`_type`: string, `__namedParameters`: object): *TypeDef*
+▸ **getTypeDef**(`_type`: string, `__namedParameters`: object, `count`: number): *TypeDef*
 
-*Defined in [packages/types/src/create/getTypeDef.ts:172](https://github.com/polkadot-js/api/blob/023c7588e5/packages/types/src/create/getTypeDef.ts#L172)*
+*Defined in [packages/types/src/create/getTypeDef.ts:178](https://github.com/polkadot-js/api/blob/bbc30ec9dc/packages/types/src/create/getTypeDef.ts#L178)*
 
 **Parameters:**
 
@@ -26,5 +26,7 @@ Name | Type |
 ------ | ------ |
 `displayName` | undefined &#124; string |
 `name` | undefined &#124; string |
+
+▪`Default value`  **count**: *number*= 0
 
 **Returns:** *TypeDef*
