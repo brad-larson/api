@@ -14,6 +14,6 @@
 
 ▸ **main**(): *void*
 
-*Defined in [packages/typegen/src/metadataMd.ts:303](https://github.com/polkadot-js/api/blob/0327aedf8e/packages/typegen/src/metadataMd.ts#L303)*
+*Defined in [packages/typegen/src/metadataMd.ts:303](https://github.com/polkadot-js/api/blob/1922676bd7/packages/typegen/src/metadataMd.ts#L303)*
 
 **Returns:** *void*
