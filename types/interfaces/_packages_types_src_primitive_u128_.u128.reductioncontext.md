@@ -29,6 +29,6 @@ ___
 
 ###  prime
 
-• **prime**: *[MPrime](_packages_types_src_codec_uint_.uint.mprime.md)*
+• **prime**: *MPrime*
 
 Defined in node_modules/@types/bn.js/index.d.ts:23

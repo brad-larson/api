@@ -24,7 +24,7 @@
 
 • **arg**? : *ArgType*
 
-*Defined in [packages/api/src/types/base.ts:77](https://github.com/polkadot-js/api/blob/eed5e23e65/packages/api/src/types/base.ts#L77)*
+*Defined in [packages/api/src/types/base.ts:77](https://github.com/polkadot-js/api/blob/63096cc238/packages/api/src/types/base.ts#L77)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • **pageSize**: *number*
 
-*Defined in [packages/api/src/types/base.ts:78](https://github.com/polkadot-js/api/blob/eed5e23e65/packages/api/src/types/base.ts#L78)*
+*Defined in [packages/api/src/types/base.ts:78](https://github.com/polkadot-js/api/blob/63096cc238/packages/api/src/types/base.ts#L78)*
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 • **startKey**? : *undefined | string*
 
-*Defined in [packages/api/src/types/base.ts:79](https://github.com/polkadot-js/api/blob/eed5e23e65/packages/api/src/types/base.ts#L79)*
+*Defined in [packages/api/src/types/base.ts:79](https://github.com/polkadot-js/api/blob/63096cc238/packages/api/src/types/base.ts#L79)*
