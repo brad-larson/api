@@ -22,7 +22,7 @@
 
 \+ **new EnumConstructor**(`registry`: [Registry](_packages_types_src_types_registry_.registry.md), `value?`: any, `index?`: undefined | number): *T*
 
-*Defined in [packages/types/src/codec/Enum.ts:17](https://github.com/polkadot-js/api/blob/28631f7180/packages/types/src/codec/Enum.ts#L17)*
+*Defined in [packages/types/src/codec/Enum.ts:17](https://github.com/polkadot-js/api/blob/b26c7f9f0a/packages/types/src/codec/Enum.ts#L17)*
 
 **Parameters:**
 
