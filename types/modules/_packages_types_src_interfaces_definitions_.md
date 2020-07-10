@@ -32,6 +32,7 @@
 * [offences](_packages_types_src_interfaces_definitions_.md#offences)
 * [parachains](_packages_types_src_interfaces_definitions_.md#parachains)
 * [payment](_packages_types_src_interfaces_definitions_.md#payment)
+* [poll](_packages_types_src_interfaces_definitions_.md#poll)
 * [recovery](_packages_types_src_interfaces_definitions_.md#recovery)
 * [rpc](_packages_types_src_interfaces_definitions_.md#rpc)
 * [runtime](_packages_types_src_interfaces_definitions_.md#runtime)
@@ -202,6 +203,12 @@ ___
 ###  payment
 
 • **payment**:
+
+___
+
+###  poll
+
+• **poll**:
 
 ___
 

@@ -105,6 +105,7 @@
 * ["packages/types/src/interfaces/offences/definitions"](modules/_packages_types_src_interfaces_offences_definitions_.md)
 * ["packages/types/src/interfaces/parachains/definitions"](modules/_packages_types_src_interfaces_parachains_definitions_.md)
 * ["packages/types/src/interfaces/payment/definitions"](modules/_packages_types_src_interfaces_payment_definitions_.md)
+* ["packages/types/src/interfaces/poll/definitions"](modules/_packages_types_src_interfaces_poll_definitions_.md)
 * ["packages/types/src/interfaces/recovery/definitions"](modules/_packages_types_src_interfaces_recovery_definitions_.md)
 * ["packages/types/src/interfaces/rpc/definitions"](modules/_packages_types_src_interfaces_rpc_definitions_.md)
 * ["packages/types/src/interfaces/runtime/definitions"](modules/_packages_types_src_interfaces_runtime_definitions_.md)
